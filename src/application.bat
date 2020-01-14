@@ -1,2 +1,4 @@
 ###application.bat - 201x - Hay###
-echo "Build : 10:00 version 1"
+echo "version 1.1"
+echo "Build : 10:00"
+echo "Copyright company"
