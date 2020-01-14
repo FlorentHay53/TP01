@@ -1,4 +1,5 @@
 ###application.bat - 201x - Hay###
-echo "version 1.1"
-echo "Build : 10:00"
-echo "Copyright company"
+version = "2"
+build_hour = "11:00"
+echo "Build${buil_hour}"
+echo "version${version}"
